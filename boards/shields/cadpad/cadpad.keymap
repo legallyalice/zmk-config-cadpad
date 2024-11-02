@@ -5,10 +5,10 @@
         default_layer { // Layer 0
           
 //                         | ESC | F1  | F2  | F3  | F4  | F5  | F6  | F7  | F8  | F9  | F10 | F11 | F12 |
-// |  -  |  *  |  /  | NLK |  `  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  0  |  -  |  =  | BKS | INS | HOM | PGU |
+// |  -  |  *  |  slsh  | NLK |  `  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  0  |  -  |  =  | BKS | INS | HOM | PGU |
 // |  +  |  7  |  8  |  9  | TAB |  Q  |  W  |  E  |  R  |  T  |  Y  |  U  |  I  |  O  |  P  |  [  |  ]  |  \  | DEL | END | PGD |
 //       |  4  |  5  |  6  | CAP |  A  |  S  |  D  |  F  |  G  |  H  |  J  |  K  |  L  |  ;  |  '  | ENT |
-// | ENT |  1  |  2  |  3  | LSH |  Z  |  X  |  C  |  V  |  B  |  N  |  M  |  ,  |  .  |  /  | RSH | UP  |
+// | ENT |  1  |  2  |  3  | LSH |  Z  |  X  |  C  |  V  |  B  |  N  |  M  |  ,  |  .  |  slsh  | RSH | UP  |
 // |  .  |  0  | LCT | LWN | LAL | SPC | RAL | RWN | MEN | RCT | LFT | DWN | RGT |
            
           bindings = <
